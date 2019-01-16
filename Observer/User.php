@@ -6,6 +6,11 @@ include "UserObserver.php";
 
 use SplObserver;
 
+/**
+ * Class User
+ * @package DesignPattern\Observer
+ * 观察者模式
+ */
 class User implements \SplSubject
 {
     public $observers;
