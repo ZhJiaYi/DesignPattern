@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="621a1e22-2c97-4ca3-89db-5e408b963078" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/BubbleSortStrategy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/QuickSortStrategy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/Sort.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/SortStrategy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/Carpenter.php" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Carpenter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/Door.php" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Door.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/DoorFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/DoorFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/DoorFittingExpert.php" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/DoorFittingExpert.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/IronDoor.php" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/IronDoor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/IronDoorFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/IronDoorFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/Welder.php" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Welder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/WoodenDoor.php" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/WoodenDoor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/WoodenDoorFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/WoodenDoorFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter/AfricanLion.php" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter/AfricanLion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter/AsianLion.php" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter/AsianLion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter/Hunter.php" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter/Hunter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter/Lion.php" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter/Lion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter/WildDog.php" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter/WildDog.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter/WildDogAdapter.php" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter/WildDogAdapter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/About.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/About.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/AquaTheme.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/AquaTheme.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/Careers.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/Careers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/DarkTheme.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/DarkTheme.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/LightTheme.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/LightTheme.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/Theme.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/Theme.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/WebPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/WebPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builder/BadBurger.php" beforeDir="false" afterPath="$PROJECT_DIR$/Builder/BadBurger.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builder/Burger.php" beforeDir="false" afterPath="$PROJECT_DIR$/Builder/Burger.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builder/BurgerBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/Builder/BurgerBuilder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChainOfResponsibility/Account.php" beforeDir="false" afterPath="$PROJECT_DIR$/ChainOfResponsibility/Account.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChainOfResponsibility/Bank.php" beforeDir="false" afterPath="$PROJECT_DIR$/ChainOfResponsibility/Bank.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChainOfResponsibility/Bitcoin.php" beforeDir="false" afterPath="$PROJECT_DIR$/ChainOfResponsibility/Bitcoin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChainOfResponsibility/Paypal.php" beforeDir="false" afterPath="$PROJECT_DIR$/ChainOfResponsibility/Paypal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command/Bulb.php" beforeDir="false" afterPath="$PROJECT_DIR$/Command/Bulb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command/Command.php" beforeDir="false" afterPath="$PROJECT_DIR$/Command/Command.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command/Off.php" beforeDir="false" afterPath="$PROJECT_DIR$/Command/Off.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command/On.php" beforeDir="false" afterPath="$PROJECT_DIR$/Command/On.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command/RemoteControl.php" beforeDir="false" afterPath="$PROJECT_DIR$/Command/RemoteControl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/Coffee.php" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/Coffee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/MikeCoffee.php" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/MikeCoffee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/SimpleCoffee.php" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/SimpleCoffee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/VanillaCoffee.php" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/VanillaCoffee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facade/Computer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/Computer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facade/ComputerFacade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/ComputerFacade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/CommunityExecutive.php" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/CommunityExecutive.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/Developer.php" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/Developer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/DevelopmentManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/DevelopmentManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/HiringManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/HiringManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/Interviewer.php" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/Interviewer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/MarketingManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/MarketingManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlyWeight/KarakTea.php" beforeDir="false" afterPath="$PROJECT_DIR$/FlyWeight/KarakTea.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlyWeight/TeaMaker.php" beforeDir="false" afterPath="$PROJECT_DIR$/FlyWeight/TeaMaker.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlyWeight/TeaShop.php" beforeDir="false" afterPath="$PROJECT_DIR$/FlyWeight/TeaShop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator/RadioStation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Iterator/RadioStation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator/StationList.php" beforeDir="false" afterPath="$PROJECT_DIR$/Iterator/StationList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Memento/Editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Memento/Editor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Memento/EditorMemento.php" beforeDir="false" afterPath="$PROJECT_DIR$/Memento/EditorMemento.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Observer/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Observer/UserObserver.php" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/UserObserver.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/Door.php" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/Door.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/LabDoor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/LabDoor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/SecureDoor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/SecureDoor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singleton/President.php" beforeDir="false" afterPath="$PROJECT_DIR$/Singleton/President.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/State/DefaultText.php" beforeDir="false" afterPath="$PROJECT_DIR$/State/DefaultText.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/State/LowerCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/State/LowerCase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/State/TextEditor.php" beforeDir="false" afterPath="$PROJECT_DIR$/State/TextEditor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/State/UpperCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/State/UpperCase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/State/WritingState.php" beforeDir="false" afterPath="$PROJECT_DIR$/State/WritingState.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1261081974">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="103" />
+          <entry key="txt" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="103" />
+          <entry key="PLAIN_TEXT" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/State/DefaultText.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/SortStrategy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/BubbleSortStrategy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/QuickSortStrategy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Strategy/Sort.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Strategy/SortStrategy.php" />
+        <option value="$PROJECT_DIR$/Strategy/BubbleSortStrategy.php" />
+        <option value="$PROJECT_DIR$/Strategy/QuickSortStrategy.php" />
+        <option value="$PROJECT_DIR$/Strategy/Sort.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="State" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="621a1e22-2c97-4ca3-89db-5e408b963078" name="Default Changelist" comment="" />
+      <created>1547608705989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547608705989</updated>
+      <workItem from="1547608708462" duration="657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="657000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/State/DefaultText.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/SortStrategy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/BubbleSortStrategy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/QuickSortStrategy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/Sort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
