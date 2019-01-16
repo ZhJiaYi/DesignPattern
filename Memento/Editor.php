@@ -39,6 +39,8 @@ $editor = new Editor();
 $editor->add('这是新内容');
 $editor->add('这是第二段内容');
 
+$file = $editor->getContent();
+
 $editor->save();
 
 echo $editor->getContent() . PHP_EOL;
@@ -48,6 +50,6 @@ $editor->add('这是第三段内容');
 echo $editor->getContent() . PHP_EOL;
 
 //TODO 不太理解
-$editor->restore(new EditorMemento($editor->getContent()));
+$editor->restore(new EditorMemento($file));
 
 echo $editor->getContent() . PHP_EOL;
